@@ -27,3 +27,5 @@ pred = 'Hot Dog' # model.predict([text])[0]
 
 if st.button("Submit"):
     st.write(f"That's a {pred}!")
+
+# just checking the git branch functionality
