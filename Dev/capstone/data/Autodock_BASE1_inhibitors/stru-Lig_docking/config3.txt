@@ -1,0 +1,19 @@
+
+receptor = BACE_6eqm.pdbqt
+ligand = B7E.pdbqt
+
+center_x =  21.654
+center_y =  75.242
+center_z =  15.417
+
+out = docking.pdbqt
+
+size_x = 40
+size_y = 44
+size_z = 54
+
+log = log3.txt
+
+exhaustiveness = 8
+
+

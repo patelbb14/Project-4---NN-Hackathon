@@ -1,0 +1,69 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+ATOM      1  C1  B7E X 901      29.519  69.170  25.892  1.00 26.57      A       
+ATOM      2  C3  B7E X 901      29.928  70.896  24.201  1.00 25.94      A       
+ATOM      3  C7  B7E X 901      30.031  73.212  22.268  1.00 25.03      A       
+ATOM      4  C8  B7E X 901      30.770  71.880  22.005  1.00 24.50      A       
+ATOM      5  C9  B7E X 901      31.150  71.092  23.281  1.00 25.51      A       
+ATOM      6  C11 B7E X 901      31.738  69.736  22.849  1.00 25.67      A       
+ATOM      7  C12 B7E X 901      31.011  74.282  22.838  1.00 25.80      A       
+ATOM      8  C13 B7E X 901      30.447  75.619  22.373  1.00 26.84      A       
+ATOM      9  C14 B7E X 901      30.665  76.913  22.861  1.00 27.69      A       
+ATOM     10  C15 B7E X 901      30.040  78.005  22.266  1.00 27.35      A       
+ATOM     11  C16 B7E X 901      29.160  77.807  21.180  1.00 27.47      A       
+ATOM     12  C19 B7E X 901      29.549  73.928  20.968  1.00 26.01      A       
+ATOM     13  C20 B7E X 901      30.355  73.650  19.671  1.00 26.29      A       
+ATOM     14  C22 B7E X 901      28.134  73.361  19.306  1.00 29.17      A       
+ATOM     15  N23 B7E X 901      28.184  73.545  20.583  1.00 26.68      A       
+ATOM     16  N29 B7E X 901      28.640  81.151  19.577  1.00 33.10      A       
+ATOM     17  C30 B7E X 901      29.217  80.180  20.285  1.00 32.53      A       
+ATOM     18  O2  B7E X 901      30.330  70.267  25.438  1.00 26.33      A       
+ATOM     19  C5  B7E X 901      29.258  72.243  24.549  1.00 26.40      A       
+ATOM     20  C6  B7E X 901      28.866  73.012  23.270  1.00 25.69      A       
+ATOM     21  C17 B7E X 901      28.959  76.501  20.687  1.00 25.47      A       
+ATOM     22  C18 B7E X 901      29.599  75.409  21.278  1.00 26.00      A       
+ATOM     23  O21 B7E X 901      29.307  73.529  18.674  1.00 28.62      A       
+ATOM     24  N24 B7E X 901      26.975  73.017  18.667  1.00 26.63      A       
+ATOM     25  C25 B7E X 901      28.531  78.962  20.471  1.00 31.13      A       
+ATOM     26  C26 B7E X 901      27.284  78.838  19.831  1.00 32.36      A       
+ATOM     27  N27 B7E X 901      26.783  79.847  19.126  1.00 33.07      A       
+ATOM     28  C28 B7E X 901      27.447  80.989  19.016  1.00 33.50      A       
+ATOM     29  H4  B7E X 901      29.195  70.276  23.673  1.00 26.27      A       
+ATOM     30  H10 B7E X 901      31.918  71.633  23.832  1.00 25.28      A       
+CONECT    1   18
+CONECT    2    5   18   19   29
+CONECT    3    4    7   12   20
+CONECT    4    3    5
+CONECT    5    2    4    6   30
+CONECT    6    5
+CONECT    7    3    8
+CONECT    8    7    9   22
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   21   25
+CONECT   12    3   13   15   22
+CONECT   13   12   23
+CONECT   14   15   23   24
+CONECT   15   12   14
+CONECT   16   17   28
+CONECT   17   16   25
+CONECT   18    1    2
+CONECT   19    2   20
+CONECT   20    3   19
+CONECT   21   11   22
+CONECT   22    8   12   21
+CONECT   23   13   14
+CONECT   24   14
+CONECT   25   11   17   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   16   27
+CONECT   29    2
+CONECT   30    5
+END

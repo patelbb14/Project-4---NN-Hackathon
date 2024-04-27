@@ -1,0 +1,4 @@
+BACE_6eqm
+spacing    1.000
+npts       40 44 54
+center    21.654 75.242 15.417

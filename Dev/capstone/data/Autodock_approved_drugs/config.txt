@@ -1,0 +1,88 @@
+receptor = BACE_6eqm.pdbqt
+ligand = LIG.pdbqt
+
+center_x =  21.654
+center_y =  75.242
+center_z =  15.417
+
+out = docking.pdbqt
+
+size_x = 40
+size_y = 44
+size_z = 54
+
+log = log1.txt
+
+exhaustiveness = 8
+
+
+receptor = BACE_6eqm.pdbqt
+ligand = 0GS.pdbqt
+
+center_x =  21.654
+center_y =  75.242
+center_z =  15.417
+
+out = docking.pdbqt
+
+size_x = 40
+size_y = 44
+size_z = 54
+
+log = log2.txt
+
+exhaustiveness = 8
+
+
+receptor = BACE_6eqm.pdbqt
+ligand = B7E.pdbqt
+
+center_x =  21.654
+center_y =  75.242
+center_z =  15.417
+
+out = docking.pdbqt
+
+size_x = 40
+size_y = 44
+size_z = 54
+
+log = log3.txt
+
+exhaustiveness = 8
+
+
+receptor = BACE_6eqm.pdbqt
+ligand = KGG.pdbqt
+
+center_x =  21.654
+center_y =  75.242
+center_z =  15.417
+
+out = docking.pdbqt
+
+size_x = 40
+size_y = 44
+size_z = 54
+
+log = log4.txt
+
+exhaustiveness = 8
+
+receptor = BACE_6eqm.pdbqt
+ligand = 1WO.pdbqt
+
+center_x =  21.654
+center_y =  75.242
+center_z =  15.417
+
+out = docking.pdbqt
+
+size_x = 40
+size_y = 44
+size_z = 54
+
+log = log5.txt
+
+exhaustiveness = 8
+

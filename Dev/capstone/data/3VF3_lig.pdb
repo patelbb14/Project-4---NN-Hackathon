@@ -1,0 +1,71 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+ATOM      1 BR1  0GS X 401      28.684  80.114  20.425  0.50 22.32      A       
+ATOM      2  C2  0GS X 401      29.449  78.529  21.015  1.00 19.91      A       
+ATOM      3  C3  0GS X 401      30.700  78.444  21.697  1.00 21.36      A       
+ATOM      4  C4  0GS X 401      31.178  77.164  22.093  1.00 20.48      A       
+ATOM      5  C5  0GS X 401      30.438  75.992  21.824  1.00 20.56      A       
+ATOM      6  C7  0GS X 401      29.197  76.080  21.144  1.00 18.99      A       
+ATOM      7  C8  0GS X 401      28.713  77.354  20.750  1.00 19.47      A       
+ATOM      8  C10 0GS X 401      28.378  74.813  20.822  1.00 17.98      A       
+ATOM      9  C13 0GS X 401      29.074  73.930  19.716  1.00 17.33      A       
+ATOM     10  C15 0GS X 401      28.209  72.724  19.217  1.00 17.67      A       
+ATOM     11  C17 0GS X 401      28.971  71.783  18.227  1.00 17.39      A       
+ATOM     12  C19 0GS X 401      29.521  72.502  16.964  1.00 17.04      A       
+ATOM     13  S22 0GS X 401      30.639  73.824  17.449  1.00 17.58      A       
+ATOM     14  C23 0GS X 401      29.544  74.786  18.492  1.00 18.41      A       
+ATOM     15  O26 0GS X 401      30.967  74.611  16.275  1.00 20.35      A       
+ATOM     16  O27 0GS X 401      31.741  73.283  18.223  1.00 18.72      A       
+ATOM     17  N28 0GS X 401      28.157  70.589  17.864  1.00 17.44      A       
+ATOM     18  C30 0GS X 401      28.797  69.372  17.292  1.00 21.29      A       
+ATOM     19  C33 0GS X 401      29.863  68.816  18.257  1.00 23.78      A       
+ATOM     20  C34 0GS X 401      29.463  68.236  19.485  1.00 24.66      A       
+ATOM     21  C36 0GS X 401      30.412  67.715  20.402  1.00 26.73      A       
+ATOM     22  C37 0GS X 401      31.795  67.808  20.076  1.00 24.56      A       
+ATOM     23  C39 0GS X 401      32.210  68.385  18.850  1.00 24.41      A       
+ATOM     24  C41 0GS X 401      31.246  68.898  17.947  1.00 23.00      A       
+ATOM     25  C43 0GS X 401      29.925  67.085  21.728  1.00 28.33      A       
+ATOM     26  F44 0GS X 401      28.567  66.983  21.759  1.00 28.40      A       
+ATOM     27  F45 0GS X 401      30.301  67.848  22.793  1.00 32.00      A       
+ATOM     28  C46 0GS X 401      30.484  65.653  21.905  1.00 30.42      A       
+ATOM     29  O50 0GS X 401      27.827  71.845  20.290  1.00 16.72      A       
+ATOM     30  F52 0GS X 401      32.344  77.049  22.728  1.00 24.04      A       
+ATOM     31  N53 0GS X 401      31.460  79.533  21.984  1.00 21.25      A       
+CONECT    1    2
+CONECT    2    1    3    7
+CONECT    3    2    4   31
+CONECT    4    3    5   30
+CONECT    5    4    6
+CONECT    6    5    7    8
+CONECT    7    2    6
+CONECT    8    6    9
+CONECT    9    8   10   14
+CONECT   10    9   11   29
+CONECT   11   10   12   17
+CONECT   12   11   13
+CONECT   13   12   14   15   16
+CONECT   14    9   13
+CONECT   15   13
+CONECT   16   13
+CONECT   17   11   18
+CONECT   18   17   19
+CONECT   19   18   20   24
+CONECT   20   19   21
+CONECT   21   20   22   25
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   19   23
+CONECT   25   21   26   27   28
+CONECT   26   25
+CONECT   27   25
+CONECT   28   25
+CONECT   29   10
+CONECT   30    4
+CONECT   31    3
+END
